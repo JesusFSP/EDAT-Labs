@@ -35,7 +35,7 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>05</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO:</td><td>12-Jun-2022</td><td>HORA DE PRESENTACION:</td><td>23:55</td>
+<td>FECHA INICIO:</td><td>29-Jun-2022</td><td>HORA DE PRESENTACION:</td><td>12:55</td>
 </tr>
 <tr><td colspan="6">INTEGRANTES:
     <ul>
